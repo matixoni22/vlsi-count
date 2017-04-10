@@ -1,0 +1,35 @@
+Command line:
+   tb_count_3bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60258
+
+Fri Apr 07 19:52:41 2017
+
+
+ Elaboration Time: 0.296402 sec
+
+ Current Memory Usage: 1156.87 Meg
+
+ Total Signals          : 9
+ Total Nets             : 12
+ Total Signal Drivers   : 6
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 3
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 391
+Total Line Count : 25
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process tb_count_3bit.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.327602 sec
+
+ Current Memory Usage: 1314.12 Meg
+
+Fri Apr 07 19:53:11 2017
+

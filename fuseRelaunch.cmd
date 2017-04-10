@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/Projekty/VSLI/PUL/lab3z1/tb_count_3bit_isim_beh.exe" -prj "G:/Projekty/VSLI/PUL/lab3z1/tb_count_3bit_beh.prj" "tb_count_3bit" 
